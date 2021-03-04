@@ -1,0 +1,465 @@
+.col-md-1.update_dp {
+  margin: 10px 0 0 60px;
+}
+.image_preview_css
+{
+	height: 150px;
+    width: 150px;
+    margin-top: 5px;
+}
+input[type=number]
+{
+	height:34px;
+}
+body
+{
+	font-family: 'Open Sans', sans-serif !important;
+}
+.panel .dashicons {
+    line-height: 25px;
+}
+.toplevel_page_school:hover {
+  background: url("../images/school-management-system-2.png") no-repeat scroll 8px 9px rgba(0, 0, 0, 0);
+}
+.toplevel_page_school:hover .wp-menu-image.dashicons-before img {
+  display: none;
+}
+.toplevel_page_school:hover .wp-menu-image.dashicons-before {
+  min-width: 23px !important;
+}
+.media-modal a:hover {text-decoration: none;}
+.wp-has-submenu.wp-has-current-submenu.wp-menu-open.menu-top.toplevel_page_school {
+    background: url("../images/school-management-system-3.png") no-repeat scroll 8px 9px #0073AA !important;
+}
+.wp-has-submenu.wp-has-current-submenu.wp-menu-open.menu-top.toplevel_page_school img {
+    display: none;
+}
+.wp-has-submenu.wp-has-current-submenu.wp-menu-open.menu-top.toplevel_page_smgt_school {
+  background: #0073aa url("../images/school-management-system-3.png") no-repeat scroll 8px 9px !important;
+}
+.wp-has-submenu.wp-has-current-submenu.wp-menu-open.menu-top.toplevel_page_smgt_school img {
+  display: none;
+}
+.info-box-title {
+  text-transform: capitalize;
+}
+
+.container-fluid.mainpage {
+  padding: 0;
+}
+.page-inner {
+  margin-left: -20px;
+  min-height:1631px;
+}
+.img-circle.head_logo {
+  margin-right: 5px;
+}
+.nav-tab-active, .nav-tab-active:hover,a.nav-tab:hover,a.nav-tab:focus {
+  background: none repeat scroll 0 0 #fff;
+  border-bottom: 0px;
+  color: #000;
+  text-decoration: none;
+}
+.wp-admin select {
+    height: 32px;
+}
+
+updated.below-h2{text-transform: capitalize;}
+//OLD CSS
+.student_name,.result_total,.result_point {
+  text-align: center; 
+}
+.student_name {
+ font-size: 20px;
+}
+.panel-body button {
+  margin-right: 5px;
+}
+.school_name {
+  background: none repeat scroll 0 0 #34425A;
+  color: #C6C9CD;
+  padding: 5px;
+}
+.school_left {
+  background: none repeat scroll 0 0 #364150;
+  min-height: 700px;
+}
+.right_side {
+  margin-top: 10px;
+}
+.nopadding {  
+  
+   padding-left:0 !important;
+   padding-right:0 !important;
+}
+.school_left .nav .title{color:#fff;line-height: 25px;}
+.school_left ul a:hover,.school_left ul li.active > a,.school_left  li > a:focus {background: #2C3542 !important;}
+.school_left ul a, {border-top: 1px solid #3d4957;
+    color: #b4bcc8;}
+    
+
+    
+.navbar a {
+  color: #000 !important;
+}
+.dropdown-menu li a {
+  padding: 7px 10px;
+  color: #5f5f5f !important;
+  font-size: 13px;
+}
+.navbar .nav li > a:hover,.navbar .nav li > a:focus {
+  background-color: inherit;
+}
+.navbar ul li ul a:hover{background-color: #F3F3F3; } 
+.navbar  a:hover{
+  text-decoration: none;
+}
+
+.account .personal-info {
+    margin-top: 15px;
+}
+.dashboard-stat {
+  height: 100px;
+  padding: 10px 5px;
+}
+.dashboard .block-orange {
+  background: #F59575;
+}
+.dashboard .icon {
+  float: left;
+  font-size: 54px;
+  margin-right: 1%;
+  width: 45%;
+}
+.dashboard .number {
+  font-size: 30px;
+}
+.dashboard .left_block {
+  float: left;
+  //width: 75%;
+}
+.form-horizontal h5 {
+    color: red;
+}
+.blue.btn {
+    background-color: #3598dc;
+    color: #ffffff;
+	border-radius:0px;
+}
+.checkbox_field  {
+    width: 10px !important;
+}
+.attendence_list th, .attendence_list td{
+	padding:10px !important;
+}
+.select_Staus {
+   
+    padding: 25px 0;
+}
+.toshow { 
+    display:none; 
+    position: absolute; 
+    background: #f00; 
+    width: 200px; 
+	
+}
+button:hover div.toshow { 
+    display:block; 
+}
+.right_part {
+    float: right;
+    margin-top: 65px;
+    width: 30%;
+}
+.calender_part{
+    width: 70%;
+}
+.seperate_part {
+    margin: 5px;
+  
+}
+.right_side {
+    margin-top: 0;
+	padding:20px;
+	min-height: 650px;
+}
+.right_side.account {
+    padding: 0;
+	
+}
+.profile-cover{
+    background: url("../images/school_life.jpg") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
+}
+.file_upload{
+border:none;
+}
+
+.table-responsive th {
+  text-transform: capitalize;
+  height: 1px;
+  font: normal;
+}
+.require-field{
+color:red;
+}
+.panel-body.student {
+  background: url("../images/image-1.png");
+   background-repeat:no-repeat;
+   background-position: right center;
+  
+}
+.panel-body.teacher{
+	
+	background:url("../images/img-2.jpg");
+	 background-repeat:no-repeat;
+     background-position: right center;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size:cover;
+}
+.panel-body.parent{
+	
+	background:url("../images/img-4.jpg");
+	 background-repeat:no-repeat;
+    background-position: right center;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size:cover;
+	
+}
+.panel-body.attendence{
+	
+	background:url("../images/img-3.jpg");
+ background-repeat: no-repeat;
+    background-position: right center;
+  
+}
+.icone{
+margin:5px;
+}
+.button-possition  input ,button{
+    margin-top: 22px;
+}
+ .panel-body h2 {
+    margin-bottom: 10px !important;
+    margin-top: 20px !important;
+}
+
+#add-another_item{margin-left: 17%;}
+#revove_item{margin-left: 1%;}
+.marginbottom{ 
+	float: left;
+    margin-bottom: 10px;
+    width: 100%;}
+.print-button {padding:10px;}
+
+/**  Fronted CSS*/
+.schoo-management-content .container-fluid.mainpage {
+  position: absolute;
+  width: 100%;
+    z-index: 5;
+}
+.schoo-management-content .col-sm-2.nopadding.school_left {
+  position: fixed;
+  width: 15%;
+  height: 100%;
+   margin-top: 70px;
+  
+}
+.schoo-management-content .page-inner {
+  margin-left: 15%;
+   margin-top: 70px;
+}
+.info-box .student .info-box-stats p {
+  color: #22baa0;
+  font-size: 34px; 
+}
+.info-box .student .info-box-stats span.info-box-title {
+  color: #22baa0; 
+}
+.info-box .teacher .info-box-stats p {
+  color: #12AFCB;
+  font-size: 34px; 
+}
+.info-box .teacher .info-box-stats span.info-box-title {
+  color: #12AFCB; 
+}
+.info-box .parent .info-box-stats p {
+  color: #6A5FAC;
+  font-size: 34px; 
+}
+.info-box .parent .info-box-stats span.info-box-title {
+  color: #6A5FAC; 
+}
+.info-box .attendence .info-box-stats p {
+  color: #F25656;
+  font-size: 34px; 
+}
+.info-box .attendence .info-box-stats span.info-box-title {
+  color: #F25656; 
+}
+.nav-tab,.nav-tabs a {
+    background: none repeat scroll 0 0 #f1f4f9;
+}
+.nav-tab.nav-tab-active {
+    background: none repeat scroll 0 0 #fff;
+	     
+}
+.mainpage .navbar-right {
+  float: right !important;
+  margin-right: 0px;
+}
+
+table.fontend-border td,
+table.fontend-border th{
+	padding:0px !important;
+}
+
+/* .schoo-management-content #notice_list td ,
+.schoo-management-content #examt_list td,
+.schoo-management-content #paymentt_list td,
+.schoo-management-content #holiday_list td  {
+  padding: 15px;
+} */
+ul.panel_tabs li{padding-left:10px;}
+ul.panel_tabs a {
+  padding: 5px;
+}
+ul.panel_tabs a:focus,ul.panel_tabs a:hover {
+  background: #fff !important;
+ 
+}
+ul.panel_tabs a {
+  /* color: red !important; */
+  font-size: 15px;
+  font-weight: 700;
+}
+
+/**********/
+.hmsg_message_none {display:none;}
+.hms_message_block{display:block;}
+.nav.navbar-right .dropdown {
+    float: right;
+}
+.school_left .icone {
+    float: left;
+    line-height: 0 !important;
+}
+.table-responsive{padding-top:10px;}
+.overlay-content .panel.panel-default {
+  float: left;
+  width: 100%;
+}
+.overlay-content .panel-body.view_result {
+  float: left;
+  height: 250px;
+  overflow: scroll;
+  width: 100%;
+}
+
+/* Update CSS*/
+table.dataTable thead th, table.dataTable thead td {
+  padding: 10px;
+}
+td .btn {
+    margin-bottom: 5px;
+}
+/** MENU **/
+.nav-side-menu .toggle-btn,.nav-side-menu .brand {
+  display: none;
+}
+.nav-side-menu {
+  overflow: auto;
+ 
+  font-size: 12px;
+  font-weight: 200;
+  background-color: #364150;
+ 
+  top: 0px;
+
+  color: #e1ffff;
+}
+ .nav.nav-pills.nav-stacked.collapse.out {
+  display: block !important;
+  background-color:#364150 !important;
+} 
+ 
+.nav-pills > li > a {
+  padding: 5px 15px !important;
+}
+.container-fluid {
+  background: #364150;
+}
+.updated.below-h2 {
+  border-color: #7ad03a !important;
+ 
+}
+
+div.updated {
+  background: #fff none repeat scroll 0 0 !important;
+  border-left: 4px solid #fff !important;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1) !important;
+  margin: 5px 0px 20px !important;
+  padding: 1px 12px !important;
+}
+div.updated p {
+  margin: 0.5em 0 !important;
+  padding: 2px !important;
+}
+.badge-delete {
+    background: #f25656 none repeat scroll 0 0 !important;
+}
+.modal-body #invoice_print {
+  max-height: 465px !important;
+  overflow: scroll;
+  padding-right: 5px;
+}
+
+/** Datatable****/
+table.dataTable.dtr-inline.collapsed > tbody > tr > td:first-child::before, table.dataTable.dtr-inline.collapsed > tbody > tr > th:first-child::before{ background-color: #22BAA0 !important;}
+table.dataTable.dtr-inline.collapsed > tbody > tr.parent > td:first-child::before, table.dataTable.dtr-inline.collapsed > tbody > tr.parent > th:first-child::before{background-color: #E14444 !important;}
+.message-options.pull-right.reply-message-btn {
+  margin-top: 35px;
+}
+.nav-side-menu .toggle-btn, .nav-side-menu .brand {
+  display: none;
+}
+.left_section2{float:left;}
+.nav-tab {
+  position: relative;
+  top: 1px;
+}
+h1.nav-tab-wrapper, h2.nav-tab-wrapper, h3.nav-tab-wrapper {
+  border-bottom: 1px solid hsl(0, 0%, 80%);
+  padding-bottom: 0;
+  padding-left: 10px;
+}
+#access_right_form .row {
+  border-bottom: 1px solid hsl(0, 0%, 87%);
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.modal-content .category_listbox {
+  height: 250px;
+  overflow: scroll;
+}
+/* .form-group.col-md-2.date-field {
+  width: 12% !important;
+} */
+.multiselect-container.dropdown-menu {
+  float: left;
+  height: 215px;
+  overflow-y: scroll;
+}
+/* .multiselect-container.dropdown-menu {
+  padding-left: 20px;
+} */
+.access_right_text{
+	margin-left:6px;
+}
+.account_name{
+	margin-top:40px;
+}
+ .class_routine{
+	 margin-left:4px;
+ }
